@@ -21,7 +21,7 @@ function sumOfNumbersTo(destination) {
     }
     return sum;
   };
-  `sumOfNumbersTo=`, sumOfNumbersTo(10);
+  console.log(`sumOfNumbersTo=`, sumOfNumbersTo(20));
 
 
 assignment.sumOfNumbersTo = sumOfNumbersTo;
